@@ -1,1 +1,0 @@
-Blockchain doesn't exist. Or that blockchain has two totally different meanings. Or that blockchain is a name given to three totally different things. Hear me out. A blockchain is a very inefficient database most famously implemented as one of several parts required for the Bitcoin jigsaw puzzle to work.
